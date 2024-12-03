@@ -1,4 +1,5 @@
-spec数据包v1.0.3     2024/10/15
+#spec数据包v1.0.3
+2024/10/15
 灵感来自MCDR的gamemode插件
 作者:1dianliu  版本:1.21+(有bug去bilibili找我反馈)
 
