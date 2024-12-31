@@ -1,5 +1,3 @@
-schedule function spec:tick 1
-
 scoreboard players enable @a s
 scoreboard players enable @a tp
 
