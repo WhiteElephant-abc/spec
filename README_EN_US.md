@@ -1,5 +1,5 @@
 # 'spec'datapck v1.0.3
-English | [中文](./README.md)  
+### [中文](./README.md) | English  
 2024/10/15  
 Inspired by MCDR's gamemode plugin  
 Author: 1dianliu  Version: 1.21+(Report bugs to me)  
