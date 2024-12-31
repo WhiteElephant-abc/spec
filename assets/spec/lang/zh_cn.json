@@ -1,0 +1,8 @@
+{
+    "back.spec.lose": "本体位置意外丢失 请手动切生存并排查问题(区块意外卸载 或者是标记被kill掉了) 如有bug联系b站“一点六”",
+    "startback.spec.wrong": "维度计分板出问题了",
+    "tp.spec.choose":"请选择要传送的维度",
+    "tp.spec.overworld":"主世界",
+    "tp.spec.nether":"下界",
+    "tp.spec.end":"末地"
+}
