@@ -17,7 +17,7 @@ Regarding dimension teleportation, between the main world and the Nether, normal
 Below 1.21 cannot be used; you can try renaming the two function folders to functions (not sure if it will work, but at least it won't work without changing)  
 1.0.3 is almost perfect, it won't force-load the chunks where the entity is located, and in creative mode, using `/trigger` to return to the original position will not change to survival mode  
 There may still be some undiscovered bugs, updates will be made after discovery  
-Multiplayer can also use `/spectator` in Carpet-Org_Addition or MCDR's gamemode plugin, but the data pack still has limitations  
+Multiplayer can also use `/spectator` [Carpet-Org_Addition](https://github.com/fcsailboat/Carpet-Org-Addition) or MCDR's [gamemode](https://mcdreforged.com/en/plugin/gamemode) plugin, but the data pack still has limitations  
 
 However, the advantage of the data pack is that it is easy to install and close to the original version; just place it in the datapacks folder under the map folder, whether compressed or not  
 Find the map folder in `.minecraft\saves`, or in the game click "Single Player - Select Map - Edit - Open World Folder"  
