@@ -1,0 +1,8 @@
+{
+    "back.spec.lose": "The position of the main body was unexpectedly lost. Please switch to survival mode manually and troubleshoot the problem (the chunk was accidentally unloaded or the marker was removed). If there are bugs, please contact “1dianliu” on GitHub.",
+    "startback.spec.wrong": "There is a problem with the dimension scoreboard.",
+    "tp.spec.choose": "Please select the dimension to teleport to.",
+    "tp.spec.overworld": "Overworld",
+    "tp.spec.nether": "The Nether",
+    "tp.spec.end": "The End"
+}

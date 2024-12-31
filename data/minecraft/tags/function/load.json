@@ -1,1 +1,7 @@
-{"replace":false,"values":["spec:load","spec:tick"]}
+{
+    "replace": false,
+    "values": [
+        "spec:load",
+        "spec:tick"
+    ]
+}
